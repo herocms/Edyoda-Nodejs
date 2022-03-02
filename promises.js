@@ -15,6 +15,9 @@ promise.then(function () {
     .then(function () {
         console.log("Operation Successful")
     })
+    .then(function () {
+        console.log("I am third")
+    })
     .catch(function () {
         console.log("Some error has occure")
     })
