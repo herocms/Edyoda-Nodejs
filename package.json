@@ -4,6 +4,7 @@
     "express": "^4.17.3",
     "fs": "^0.0.1-security",
     "mongoose": "^6.2.6",
-    "mongose": "^0.0.2-security"
+    "mongose": "^0.0.2-security",
+    "nodemon": "^2.0.15"
   }
 }
